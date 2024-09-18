@@ -20,3 +20,7 @@ index.html: Contains the structure of the webpage.
 styles_2.css: Contains the styling for the Netflix home page layout and design.
 video.mp4: Background video file.
 Logonetflix.png, wall.png, user.png: Assets used for the Netflix logo, movie title, and user profile.
+
+
+![Uploading Screenshot 2024-09-18 122134.png…]()
+
